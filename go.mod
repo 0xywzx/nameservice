@@ -9,4 +9,5 @@ require (
 	github.com/gorilla/mux v1.7.3
 	github.com/spf13/cobra v0.0.5
 	github.com/tendermint/tendermint v0.32.8
+	github.com/tendermint/tm-db v0.2.0
 )
